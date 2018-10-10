@@ -5,7 +5,7 @@
 //  Created by Abdullah Mukhlasin (RPL D ) on 09/10/18.
 //  Copyright © 2018 Culdesac. All rights reserved.
 //
-
+// made in obedelfatihsyams
 import UIKit
 
 class ViewController: UIViewController {
